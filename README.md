@@ -8,9 +8,9 @@ BoosingModel is my XGBoost model -- This one might take a little to run since it
 
 EmployeeAttritionRF is the Random Forest model -- Also might take a long time to run due to grid search and randomized search.
 
-LogisticModel is the logistic model for the entire dataset.
+LogisticModel is the Logistic Model for the entire dataset.
 
-SVModel is the support vector machine model for the entire dataset.
+SVModel is the Support Vector Machine model for the entire dataset.
 
 EmployeeAttritionEDA is all of my exploratory data analysis on the dataset.
 
@@ -18,7 +18,7 @@ EmployeeAttritionEDA is all of my exploratory data analysis on the dataset.
 
 1-2Boost is the XGBoost for the subset of the dataset.
 
-1-2Logistic is the logistic model for the subset of the dataset.
+1-2Logistic is the Logistic Model for the subset of the dataset.
 
 YearsAtCompany1or2 is roughly the same EDA from the entire subset but now just on the subset for people who worked at the 
 company for 1-2 years.
