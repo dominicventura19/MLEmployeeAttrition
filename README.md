@@ -1,7 +1,8 @@
 A nice, convenient, and simple way to run these notebooks is via https://mybinder.org/ 
 
-All you need to do is 
+All you need to do is click the link and copy and paste the link to my git repository into the top line and hit "Launch".
 
+Next, it will give you a new url in the "Copy the URL below and share your Binder with others:". Copy and paste that link into a new tab and it will create a server for you so that you can run all of the notebooks.
 
 
 
